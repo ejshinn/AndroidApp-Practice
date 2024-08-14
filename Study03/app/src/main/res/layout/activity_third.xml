@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ThirdActivity">
+
+    <Button
+        android:id="@+id/btnReturn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Third || 돌아가기"
+        android:textSize="30sp">
+    </Button>
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Third text 내용"
+        android:textSize="30sp">
+    </TextView>
+
+</LinearLayout>

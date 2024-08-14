@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity6">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdoSecond"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Second 액티비티"
+            android:textSize="20sp"
+            android:checked="true">
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/rdoThird"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Third 액티비티"
+            android:textSize="20sp">
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/rdoFour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Four 액티비티"
+            android:textSize="20sp">
+        </RadioButton>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnNewActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="새 화면 열기"
+        android:textSize="30sp">
+    </Button>
+
+</LinearLayout>
