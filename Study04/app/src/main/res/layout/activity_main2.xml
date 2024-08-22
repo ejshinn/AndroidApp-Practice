@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity2">
+
+    <Button
+        android:id="@+id/btnBasic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="기본 다이얼로그"
+        android:textSize="20sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnCustom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Custom 다이얼로그"
+        android:textSize="20sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnCustom2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Custom 다이얼로그2"
+        android:textSize="20sp">
+    </Button>
+
+    <TextView
+        android:id="@+id/txName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="이름">
+    </TextView>
+
+    <TextView
+        android:id="@+id/txAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="나이">
+    </TextView>
+
+    <Button
+        android:id="@+id/btnDatePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="데이트 픽커 다이어로그"
+        android:textSize="20sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnTimePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="타임픽커 다이어로그"
+        android:textSize="20sp">
+    </Button>
+
+    <Button
+        android:id="@+id/btnProgress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="프로그래스바"
+        android:textSize="20sp">
+    </Button>
+
+</LinearLayout>
