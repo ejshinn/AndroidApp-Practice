@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/edTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+
+    <RadioGroup
+        android:id="@+id/rdoGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdoM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="남자">
+        </RadioButton>
+
+        <RadioButton
+            android:id="@+id/rdoF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="여자">
+        </RadioButton>
+
+    </RadioGroup>
+
+</LinearLayout>
