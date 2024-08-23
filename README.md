@@ -55,7 +55,7 @@
 
 ### 7. Study07
 * Fragment - 액티비티에서 프래그먼트로 데이터 전달
-* Fragment - 백스택
+* Fragment - 백스택(back stack)
 * Fragment - 버튼 클릭 시 프래그먼트 화면 전환
 
 
