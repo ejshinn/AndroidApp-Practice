@@ -44,6 +44,27 @@
 
 ### 6-1. Study06_1
 * 리사이클러 뷰 - 목록 화면 구성, 클릭(토스트 메시지) 및 롱클릭(삭제) 이벤트 처리하기
+
+
+### 6-2. Study06Retrofit
+* Retrofit을 사용하여 JSON 구조의 데이터 가져오기
+* Data Class 정의
+* Retrofit Service Interface 정의
+* Retrofit 객체 생성 클래스 정의
+
+
+### 7. Study07
+* Fragment - 액티비티에서 프래그먼트로 데이터 전달
+* Fragment - 백스택(back stack)
+* Fragment - 버튼 클릭 시 프래그먼트 화면 전환
+
+
+### 7-1. Study07Fragment
+* Fragment - 프래그먼트 생명주기, 프래그먼트간 데이터 전달
+
+
+### 7-2. Study07ViewPager
+*
 <br>
 
 ###### (Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린, 2024)을 학습하고 개인 학습용으로 정리한 내용입니다.
