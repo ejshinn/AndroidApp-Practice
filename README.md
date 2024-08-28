@@ -76,6 +76,11 @@
 ### 8-1. Study08_1
 * RecyclerView.Adapter로 ViewPager2 사용하기(with TabLayout)
 * FragmentStateAdapter로 ViewPager2 사용하기(with TabLayout)
+
+
+### 8-2. Study08Menu
+* 액션바, 메뉴 구현, 서치 뷰
+* 아이템 데커레이션, 드로어 레이아웃 - 옆에서 열리는 화면 구성, 뷰 페이저2 - 스와이프로 넘기는 화면 구성
 <br>
 
 ###### (Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린, 2024)을 학습하고 개인 학습용으로 정리한 내용입니다.
