@@ -81,6 +81,25 @@
 ### 8-2. Study08Menu
 * 액션바, 메뉴 구현, 서치 뷰
 * 아이템 데커레이션, 드로어 레이아웃 - 옆에서 열리는 화면 구성, 뷰 페이저2 - 스와이프로 넘기는 화면 구성
+
+
+### 9. Study09DB
+* SQLite 데이터베이스 및 테이블 생성, 데이터 입력 및 조회
+* 일기앱(SQLiteOpenHelper를 사용한 데이터베이스 및 테이블 생성, 선택한 날짜의 일기 조회, 입력, 삭제)
+
+
+### 9. Study09DB1
+* 메모앱(SQLiteOpenHelper를 사용한 데이터베이스 및 테이블 생성, 메모 조회, 삽입, 수정, 삭제)
+
+
+### 10. Study10Retrofit, androidPhone
+* 서버와 연동된 CRUD(dialog를 이용한 데이터 추가, 수정)
+* retrofit2를 이용한 서버 통신
+
+
+### 11. Study11Member, serverMember11
+* 서버와 연동된 회원가입에 관한 CRUD(intent를 이용한 데이터 추가, 수정)
+* retrofit2를 이용한 서버 통신
 <br>
 
 ###### (Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린, 2024)을 학습하고 개인 학습용으로 정리한 내용입니다.
