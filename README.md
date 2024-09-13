@@ -100,6 +100,10 @@
 ### 11. Study11Member, serverMember11
 * 서버와 연동된 회원가입에 관한 CRUD(intent를 이용한 데이터 추가, 수정)
 * retrofit2를 이용한 서버 통신
+
+
+### 12. Study12Shared
+* SharedPreferences 사용하기
 <br>
 
 ###### (Do it! 깡샘의 안드로이드 앱 프로그래밍 with 코틀린, 2024)을 학습하고 개인 학습용으로 정리한 내용입니다.
